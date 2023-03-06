@@ -47,7 +47,7 @@
 - проводил интеграции со сторонними сервисами.
 - покрытие тестами.
 
-Стек: Spring Boot, Spring Data JPA, Spring Security, MVC, Docker, MySQL.
+Стек: Spring Boot, Spring Data JPA, Spring Security, MVC, Docker, PostgreSQL.
 
 
 
