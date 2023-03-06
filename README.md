@@ -2,7 +2,7 @@
 
 ## **Java Developer.** Изучаю Java более двух лет, имею коммерческий опыт работы.
 
-### Моя статистика на Leetcode
+### Моя статистика:
 [![sovadeveloper's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sovadeveloper&theme=dark)](https://github.com/KnlnKS/leetcode-stats)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovadeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Стек: 
@@ -31,6 +31,23 @@
 
 ### Опыт работы:
 
+ООО "ЛАКИ" Май 2021 — июль 2022 (1 год 3 месяца)
+
+1) Отвечал за разработку backend части для онлайн магазина по продаже цветов + CRM системы для управления сотрудниками.
+
+- Написание REST API, взаимодействие с БД.
+- Принимал участие в проектировании API.
+- Частично принимал участие в отладке на frontend'e, работал с js, ajax и работал с шаблонизатором Thymeleaf.
+
+2) Отвечал за разработку backend части для агрегатора по продаже лакокрасочных изделий для автомобилей
+
+- Написание REST API, взаимодействие с БД.
+- Принимал участие в проектировании API.
+- принимал участие в проектировании БД.
+- проводил интеграции со сторонними сервисами.
+- покрытие тестами.
+
+Стек: Spring Boot, Spring Data JPA, Spring Security, MVC, Docker, MySQL.
 
 
 
