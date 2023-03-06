@@ -3,9 +3,11 @@
 ## **Java Developer.** Изучаю Java более двух лет, имею коммерческий опыт работы.
 
 ### Моя статистика на Leetcode
-[![sovadeveloper's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sovadeveloper&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![sovadeveloper's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sovadeveloper&theme=dark)](https://github.com/KnlnKS/leetcode-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovadeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Стек: 
+
+
 **Основной:**
 - Java (Core, Collections, Stream API, Concurrency)
 - Spring (Spring Boot, Spring MVC, Spring REST, Spring Web, Spring Security)
@@ -26,4 +28,10 @@
 - Thymeleaf
 - Bootstrap
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sovadeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Опыт работы:
+
+
+
+
+
