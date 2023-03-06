@@ -15,6 +15,8 @@
 - Docker
 - Junit, Mockito
 - общее понимание микросервисной архитектуры (+ небольшие нароботки)
+
+
 **Так же знаком с:**
 - Python (Flask, Django)
 - HTML, CSS, JS (Ajax)
