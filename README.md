@@ -52,6 +52,9 @@
 
 
 
+
+
+
 ООО "Совкомбанк Технологии" Март 2023 — по настоящее время (Февраль 2024)
 
 Разработка backend части на языке Java, с использованием Spring Boot, Spring Data, Spring Security, Spring Web, Hibernate.
