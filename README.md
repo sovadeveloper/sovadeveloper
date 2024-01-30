@@ -49,11 +49,9 @@
 
 Стек: Spring Boot, Spring Data JPA, Spring Security, MVC, Docker, PostgreSQL.
 
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ООО "Совкомбанк Технологии" Март 2023 — по настоящее время (Февраль 2024)
 
