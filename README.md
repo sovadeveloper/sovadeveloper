@@ -73,7 +73,7 @@
 
 - Рефакторинг имеющегося кода.
 
-- Интеграция с другими сервисами, OpenFeign и RestTemplate.
+- Интеграция с другими сервисами, WebClient, OpenFeign и RestTemplate.
 
 - Документирование кода, работа со Swagger и Confluence.
 
